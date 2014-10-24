@@ -3,7 +3,7 @@
 ## makeCacheMatrix
 ## The makeCacheMatrix function creates a special 'matrix' object that can cache its inverse.
 ## Saves the matrix to variable 'm' and its inverse to variable 'inverseM'.
-## Returned object (actually it's a list) contains methods:
+## Returned object contains the methods:
 ## set: sets matrix and empties the cached inverse
 ## get: returns the matrix
 ## setinverse: saves the solve value
